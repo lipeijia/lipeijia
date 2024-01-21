@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/pejaja"><img src="https://github.com/lipeijia/lipeijia/blob/master/devcard.svg" width="400" alt="pejaja's Dev Card"/></a>
+<a href="https://app.daily.dev/pejaja"><img src="https://github.com/lipeijia/lipeijia/blob/main/devcard.svg" width="400" alt="pejaja's Dev Card"/></a>
 <!--
 **lipeijia/lipeijia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
