@@ -1,4 +1,4 @@
-### 👋 Hello! I'm PeiJia
+### 👋 Hola! I'm PeiJia :)
 
 - 🌏 Based in **Taipei, Taiwan**
 - 🎨 Ex-web designer turned **self-taught frontend developer**
