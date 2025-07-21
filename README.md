@@ -1,7 +1,7 @@
 ### 👋 Hola! I'm PeiJia :)
 
 - 🌏 Based in **Taipei, Taiwan**
-- 🎨 Ex-web designer turned **self-taught frontend developer**
+- 🎨 Ex-web designer turned **self-taught frontend engineer**
 - 🔭 Currently learning: [CS50 Web Programming](https://cs50.harvard.edu/web/)
 - 🧠 Focused on mastering **JavaScript**, with interest in full-stack development
 - personal blog & study notes: https://lipeijia.github.io/lab/
