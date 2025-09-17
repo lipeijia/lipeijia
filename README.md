@@ -1,12 +1,13 @@
 ### 👋 Hola! I'm PeiJia :)
 
 - 🌏 Based in Taipei, Taiwan
-- 🎨 Former web designer turned self-taught frontend engineer
+- 🎨 Former web designer turned self-taught coder
 - 📝 Personal blog & study notes: [lipeijia.github.io/lab](https://lipeijia.github.io/lab/)
 - 🧠 Currently focused on mastering JavaScript, with a growing interest in full-stack development
 - 📚 Actively learning:
     - [CS50 Web Programming](https://cs50.harvard.edu/web/)
     - [LeetCode’s Interview Crash Course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms) (short-term DSA prep)
+    - Learning computer science from https://roadmap.sh/ai/roadmap-chat/computer-science
     - [Teach Yourself Computer Science](https://teachyourselfcs.com/) (long-term CS fundamentals)
 
 
