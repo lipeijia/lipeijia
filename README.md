@@ -7,8 +7,7 @@
 - 📚 Actively learning:
     - [CS50 Web Programming](https://cs50.harvard.edu/web/)
     - [LeetCode’s Interview Crash Course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms) (short-term DSA prep)
-    - Learning computer science from https://roadmap.sh/ai/roadmap-chat/computer-science
-    - [Teach Yourself Computer Science](https://teachyourselfcs.com/) (long-term CS fundamentals)
+    - CS Learning Roadmap from [roadmap.sh](https://roadmap.sh/ai/roadmap-chat/computer-science)
 
 
 
