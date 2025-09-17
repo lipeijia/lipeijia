@@ -6,7 +6,6 @@
 - 🧠 Currently focused on mastering JavaScript, with a growing interest in full-stack development
 - 📚 Actively learning:
     - [CS50 Web Programming](https://cs50.harvard.edu/web/)
-    - [LeetCode’s Interview Crash Course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms) (short-term DSA prep)
     - CS Learning Roadmap from [roadmap.sh](https://roadmap.sh/ai/roadmap-chat/computer-science)
 
 
